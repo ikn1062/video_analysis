@@ -53,3 +53,6 @@ The Owl Video Analysis uses `dlib` `face_recognition`, `mediapipe`, and `pyannot
 to recognize the speaker at any given frame. The `pyannote.audio` speaker dirization tool allows 
 for a speaker-based recognition which can be linked to a given speaker using the `mediapipe`
 face mesh to track mouth movements and the `face_recognition` library.
+
+## TODO:
+1. Merge Fullstack application from private branch to current public branch
