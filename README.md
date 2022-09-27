@@ -56,3 +56,5 @@ face mesh to track mouth movements and the `face_recognition` library.
 
 ## TODO:
 1. Merge Fullstack application from private branch to current public branch
+2. Update QR-code scanner with Neural Network pre-processing architecture
+3. Implement CLI for terminal interfacing
